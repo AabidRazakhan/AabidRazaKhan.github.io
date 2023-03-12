@@ -72,7 +72,6 @@ section {
 }
 .home-img img {
   width: 35vw;
-  margin-left: 2rem;
   animation: floatImage 4s ease-in-out infinite;
 }
 @keyframes floatImage  {
